@@ -1,6 +1,4 @@
 ## Hi there 👋
 
-Hey there! I am Research Scientist with a Master of Science in Computational Neurocognitive Science from the University of Oldenburg , with a focus on machine learning techniques for signal processingn medical image analysis and neuroimaging.  
-
-Currently, I am freelancing on deep learning projects, mainly focusing on medical imaging in computer vision tasks such as semantic segmentation, object classification, localization and detection.ً
+I am a data scientist with a background in image analysis and signal processing. currently, freelancing on machine learning and deep learning projects. Alongside my freelance work, I am actively learning in MLOps, applying best practices to seamlessly integrate, deploy and maintain models in production environments.
 

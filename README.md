@@ -1,6 +1,5 @@
 ##
 
-## Technologies I used:
 
 <h2 align="center">Technologies & Tools</h2>
 

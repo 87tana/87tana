@@ -27,6 +27,10 @@
                 FastAPI
             </td>
             <td style="text-align: left; padding: 10px;">
+                <img width="50" src="/icons/Streamlit.png" alt="FastAPI logo"><br>
+                Streamlit
+            </td>
+            <td style="text-align: left; padding: 10px;">
                 <img width="50" src="/icons/icons8-pytorch-48.png" alt="PyTorch logo"><br>
                 PyTorch
             </td>

@@ -43,7 +43,7 @@
     </table>
 </div>
 
-<h2 align="left">Publications</h2>
+<h2 align="left">See on Medium</h2>
 
 * [Exploring CNN Components for Tumor segmentation in MRI Images:An oblation study](https://medium.com/@t.mostafid/exploring-cnn-components-for-tumor-segmentation-in-mri-images-an-ablation-study-d79cdfd25083)
 

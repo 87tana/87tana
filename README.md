@@ -44,6 +44,7 @@
 </div>
 
 <h2 align="left">See on Medium</h2>
+* [Deep Learning for X-ray Bone Fracture Detection: Key Concepts and Recent Approaches](https://medium.com/@t.mostafid/deep-learning-for-x-ray-bone-fracture-detection-key-concepts-and-recent-approaches-8b6bb509fd8c)
 
 * [Exploring CNN Components for Tumor segmentation in MRI Images:An oblation study](https://medium.com/@t.mostafid/exploring-cnn-components-for-tumor-segmentation-in-mri-images-an-ablation-study-d79cdfd25083)
 

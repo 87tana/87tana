@@ -38,6 +38,11 @@
                 <img width="50" src="/icons/MLflow.png" alt="MLflow logo"><br>
                 MLflow
             </td>
+            </td>
+                <td style="text-align: left; padding: 10px;">
+                <img width="50" src="/icons/MLflow.png" alt="MLflow logo"><br>
+                Azure
+            </td>
             <!-- Add more icons in new <td> as needed -->
         </tr>
     </table>

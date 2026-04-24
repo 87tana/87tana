@@ -4,7 +4,7 @@
 
 Experienced in building end-to-end ML pipelines from experimentation to deployment, leveraging cloud platforms (AWS, Azure) and
 DevOps practices for scalable model serving. 
-Background in image analysis, and signal processing.
+Background in image analysis, and signal processing and computer vision.
 
 
 ### 💻 Tech Stack:

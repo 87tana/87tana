@@ -39,23 +39,7 @@ Background in image analysis,signal processing and computer vision.
 
 <br/>
 
----
 
-### 📊 GitHub Stats:
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=87tana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=87tana&theme=tokyonight&hide_border=true" height="150"/>
-
-</div>
-
-<br/>
-
----
 
 ### 📝 Publications & Writing:
 

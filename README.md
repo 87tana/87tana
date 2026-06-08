@@ -7,7 +7,7 @@ DevOps practices for scalable model serving.
 Background in image analysis,signal processing and computer vision.
 
 
-### 💻 Tech Stack:
+### Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -41,7 +41,7 @@ Background in image analysis,signal processing and computer vision.
 
 
 
-### 📝 Publications & Writing:
+### Publications & Writing:
 
 - 📄 [From Docs to Dialogue: Build Your RAG Chatbot on Azure, Step-by-Step](https://medium.com/@87tana)
 - 📄 [How I Tried (and Struggled) to Teach YOLO to Spot Bone Fractures](https://medium.com/@87tana)

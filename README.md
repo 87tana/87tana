@@ -43,8 +43,8 @@ Background in image analysis,signal processing and computer vision.
 
 ### Publications & Writing:
 
-- 📄 [From Docs to Dialogue: Build Your RAG Chatbot on Azure, Step-by-Step](https://medium.com/@87tana)
+- 📄 [Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study](https://medium.com/@87tana)
 - 📄 [How I Tried (and Struggled) to Teach YOLO to Spot Bone Fractures](https://medium.com/@87tana)
 - 📄 [Deep Learning for X-ray Bone Fracture Detection: Key Concepts and Recent Approaches](https://medium.com/@87tana)
-- 📄 [Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study](https://medium.com/@87tana)
 - 📄 [Tumor Segmentation with U-Net Neural Networks](https://medium.com/@87tana)
+- 📄 [From Docs to Dialogue: Build Your RAG Chatbot on Azure, Step-by-Step](https://medium.com/@87tana)

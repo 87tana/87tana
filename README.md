@@ -6,6 +6,8 @@ Experienced in building end-to-end ML pipelines from experimentation to deployme
 DevOps practices for scalable model serving. 
 Background in image analysis,signal processing and computer vision.
 
+Research interests at the intersection of AI and Neuroscience  
+
 
 ### Tech Stack:
 
